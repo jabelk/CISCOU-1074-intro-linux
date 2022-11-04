@@ -1,0 +1,32 @@
+cd DIRNAME
+cd ..
+cd -
+cd
+cd /home/user/directory/file
+cd directory/file
+mkdir DIRNAME
+touch FILENAME
+rm FILENAME 
+rm –rf DIRNAME 
+ls
+ls -la
+pwd
+cp FILE1 FILE2
+vi FILENAME
+vim FILENAME
+nano FILENAME
+ssh-copy-id user@HOST
+ssh user@device | tee FILENAME
+history
+tree –L X .
+cat FILENAME
+more FILENAME
+CTRL + C
+CTRL + Z
+$HOME or ~
+command_needing_path .
+command 1 | command 2
+command > FILENAME
+command >> FILENAME
+sh script.sh
+chmod +x FILENAME
